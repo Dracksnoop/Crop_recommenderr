@@ -10,7 +10,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**[🚀 Live Demo](https://crop-recommendation-system.onrender.com)** | **[📊 Dataset](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset)**
+**[🚀 Live Demo](https://crop-recommendation-system.onrender.com)** | **[📊 Dataset]([https://www.kaggle.com/atharvaingle/crop-recommendation-dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset))**
 
 </div>
 
@@ -348,7 +348,7 @@ This project was made possible by the following resources and technologies:
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| **Kaggle** | Crop Recommendation Dataset | [Visit](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset) |
+| **Kaggle** | Crop Recommendation Dataset | [Visit]([https://www.kaggle.com/atharvaingle/crop-recommendation-dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)) |
 | **Scikit-Learn** | Machine Learning library for model training | [Visit](https://scikit-learn.org/) |
 | **Streamlit** | Web framework for building the application | [Visit](https://streamlit.io/) |
 | **Render** | Cloud platform for deployment | [Visit](https://render.com/) |
