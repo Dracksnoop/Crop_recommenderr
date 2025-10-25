@@ -10,7 +10,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**[🚀 Live Demo](https://crop-recommendation-system.onrender.com)** | **[📊 Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)**
+**[🚀 Live Demo](https://crop-recommenderr.onrender.com/)** | **[📊 Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)**
 
 </div>
 
