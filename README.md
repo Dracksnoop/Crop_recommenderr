@@ -250,7 +250,7 @@ Crop_recommender/
 
 If you find a bug or have a feature request, please open an issue on GitHub:
 
-👉 **[Create an Issue](https://github.com/Dracksnoop/crop-recommendation-system/issues)**
+👉 **[Create an Issue](https://github.com/Dracksnoop/Crop_recommenderr/issues/new)**
 
 **To report a bug:**
 1. Navigate to the Issues tab
@@ -317,7 +317,6 @@ I appreciate your feedback and contributions! 🙏
 
 ## ⚖️ License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ### MIT License Summary
 ```
@@ -338,7 +337,6 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
 
-📄 Full license text available in the [LICENSE](LICENSE) file.
 
 ---
 
@@ -353,7 +351,7 @@ This project was made possible by the following resources and technologies:
 | **Streamlit** | Web framework for building the application | [Visit](https://streamlit.io/) |
 | **Render** | Cloud platform for deployment | [Visit](https://render.com/) |
 | **Python** | Core programming language | [Visit](https://www.python.org/) |
-| **Ella** | AI tutor for Data Science guidance | [Visit](https://ella.ai/) |
+| **Campusx** | youtube tutor for Data Science guidance | [Visit](https://www.youtube.com/@campusx-official) |
 
 Special thanks to the open-source community for their invaluable tools and resources! 🙏
 
