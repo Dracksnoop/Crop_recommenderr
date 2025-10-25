@@ -38,10 +38,10 @@
 
 ## 🎥 Demo
 
-🔗 **Live Application:** [https://crop-recommendation-system.onrender.com](https://crop-recommendation-system.onrender.com)
+🔗 **Live Application:** [https://crop-recommendation-system.onrender.com]([https://crop-recommendation-system.onrender.com](https://crop-recommenderr.onrender.com/))
 
 <div align="center">
-  <img src="screenshots/app_screenshot.png" alt="Crop Recommendation System Demo" width="800"/>
+  <img src="https://ibb.co/MyVm3hfY" alt="Crop Recommendation System Demo" width="800"/>
   <p><em>Screenshot of the Crop Recommendation System in action</em></p>
 </div>
 
