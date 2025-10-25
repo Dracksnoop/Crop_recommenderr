@@ -250,7 +250,7 @@ Crop_recommender/
 
 If you find a bug or have a feature request, please open an issue on GitHub:
 
-👉 **[Create an Issue](https://github.com/krishna-gurjar/crop-recommendation-system/issues)**
+👉 **[Create an Issue](https://github.com/Dracksnoop/crop-recommendation-system/issues)**
 
 **To report a bug:**
 1. Navigate to the Issues tab
