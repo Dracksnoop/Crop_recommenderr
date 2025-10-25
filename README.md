@@ -41,7 +41,7 @@
 🔗 **Live Application:** [https://crop-recommendation-system.onrender.com]([https://crop-recommendation-system.onrender.com](https://crop-recommenderr.onrender.com/))
 
 <div align="center">
-  <img src="https://ibb.co/MyVm3hfY" alt="Crop Recommendation System Demo" width="800"/>
+<img width="1297" height="701" alt="Image" src="https://github.com/user-attachments/assets/8c873884-abed-434b-9442-4b9674ed2d92" />
   <p><em>Screenshot of the Crop Recommendation System in action</em></p>
 </div>
 
@@ -197,7 +197,7 @@ This application is deployed on **Render**, a modern cloud platform for hosting 
 5. **Deploy**: Click "Create Web Service" and Render will automatically deploy your app
 
 <div align="center">
-  <img src="screenshots/render_dashboard.png" alt="Render Dashboard" width="700"/>
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/71760028-4b44-43d1-ab0f-757a5d1a5196" />
   <p><em>Render deployment dashboard</em></p>
 </div>
 
