@@ -1,0 +1,38 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 🧪 Virtual environment
+.venv/
+env/
+venv/
+ENV/
+*.egg-info/
+
+# 🧠 Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb_save
+*.ipynb_save.*
+
+# 🪶 Streamlit cache
+.streamlit/
+.cache/
+
+# 🧩 Logs and temporary files
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# 🧰 System files
+Thumbs.db
+.vscode/
+.idea/
+
+# 🚫 Large model or data folders (optional — keep if too big)
+data/
+notebooks/
